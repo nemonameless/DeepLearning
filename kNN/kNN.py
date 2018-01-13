@@ -1,4 +1,5 @@
 #-*- coding: utf-8 -*-
+# http://labfile.oss.aliyuncs.com/courses/777/lab3_0930.zip
 
 from numpy import *
 from os import listdir
